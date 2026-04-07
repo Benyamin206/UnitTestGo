@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/Benyamin206/UnitTestGo/handphone"
-	"github.com/Benyamin206/UnitTestGo/laptop"
-	"github.com/Benyamin206/UnitTestGo/resource1"
+	"github.com/Benyamin206/UnitTestGo/v2/handphone"
+	"github.com/Benyamin206/UnitTestGo/v2/laptop"
+	"github.com/Benyamin206/UnitTestGo/v2/resource1"
 )
 
 func PrintCharge(r1 resource1.StopKontak) {
